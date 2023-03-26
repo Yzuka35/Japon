@@ -1,0 +1,21 @@
+body{
+    background-image: url("./img/bg.PNG");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1  {
+    color: rgb(45, 24, 64);   
+}
+
+h2 {
+    color: rgb(19, 19, 68);
+}
+h3 {
+    color: rgb(129, 86, 6);
+}
+
+img {
+    width: 24rem;
+    height: 16rem;
+}
